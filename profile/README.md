@@ -4,7 +4,6 @@
 <img width="300" src="https://raw.githubusercontent.com/shuttle-hq/shuttle/master/assets/logo-rectangle-transparent.png"/>
 </p>
 
-> With Shuttle, you can set up your infrastructure with macros directly in your code & deploy your web app in a matter of minutes, for free.
 
 * 🌍 [Website](https://www.shuttle.dev)
 * 📃 [Documentation](https://docs.shuttle.dev)
